@@ -13,3 +13,8 @@
 * Controller Diagram - https://www.reddit.com/r/oculus/comments/8ycgov/oculus_touch_controller_diagrams/
 * Golf Ball + Club - https://www.cgtrader.com/free-3d-models/sports/equipment/golf-club-and-golf-ball-3d-model
 * Particle Texture - https://assets.babylonjs.com/textures/flare.png
+
+# Group Members for This Project
+- https://github.com/robinfire110
+- https://github.com/kadirlofca
+- https://github.com/wyatt-raex
